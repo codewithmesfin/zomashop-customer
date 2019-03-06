@@ -1,0 +1,1 @@
+/home/sciemesfin/Documents/Projects/vue-app-starter/tests/e2e/support/commands.js

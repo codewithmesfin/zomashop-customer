@@ -1,0 +1,34 @@
+{
+  "dashboard": "የመረጃ ሰሌዳ",
+  "accounts": "መለያዎች",
+  "roles": "ሚናዎች",
+  "users": "ተጠቃሚዎች",
+  "user": "ተጠቃሚ",
+  "settings": "ቅንብሮች",
+
+  "create_new_user": "አዲስ ተጠቃሚ ፍጠር",
+  "full_name": "ሙሉ ስም",
+  "gender": "ፆታ",
+  "phone_number": "ስልክ ቁጥር",
+  "email": "ኢ-ሜይል",
+  "username": "የተጠቃሚ መለያ ስም",
+  "password": "የይለፍ ቃል",
+  "password_confirm": "የይለፍ ቃል አረጋግጥ",
+  "role": "ሚና",
+  "building": "ህንፃ",
+  "permissions": "ፈቃድ",
+  "create_building": "አዲስ ህንፃ ምዝገባ",
+
+  "log_out": "ውጣ",
+  "dark_theme": "ጠቆር ያለ እይታ",
+
+  "action_edit": "ይለወጥ",
+  "action_delete": "ይሰረዝ",
+  "are_you_sure": "እርግጠኛ ኖት?",
+  "change_password": "የይለፍ ቃል ቀይር",
+  "user_profile": "የተጠቃሚ ገጽታ",
+  "old_password": "የቀድሞ ይለፍቃል",
+  "new_password": "አዲስ የይለፍ ቃል"
+
+
+}

@@ -1,0 +1,34 @@
+{
+  "dashboard": "Dashboard",
+  "reports": "Reports",
+  "accounts": "Accounts",
+  "roles": "Roles",
+  "users": "Users",
+  "user": "User",
+  "settings": "Settings",
+  "create_building": "Create New Building",
+
+  "create_new_user": "Create User Account",
+  "full_name": "Full Name",
+  "gender": "Gender",
+  "phone_number": "Phone Number",
+  "email": "Email",
+  "username": "Username",
+  "password": "Password",
+  "password_confirm": "Confirm Password",
+  "role": "Role",
+  "region": "Region",
+  "update_user_account": "Update User Account",
+
+  "building": "building",
+  "permissions": "Permission",
+
+  "log_out": "Log out",
+  "dark_theme": "Dark Theme",
+
+  "action_edit": "Edit",
+  "action_delete": "Delete",
+  "are_you_sure": "Are you sure?",
+  "user_profile": "User Profile",
+  "change_password": "Change Password"
+}
